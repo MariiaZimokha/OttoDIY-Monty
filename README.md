@@ -6,3 +6,5 @@ I can walk forward and backwards. I can detect obstacles and aviod them.
 
 # How does it work
 Current robot has 4 servo motors which allow it to walk. Also it has ultrasonic sensor which allows to detect obstacles and avoid them.
+
+![](https://media.giphy.com/media/cl36rFcCREM1NScTmq/200w_d.gif)
